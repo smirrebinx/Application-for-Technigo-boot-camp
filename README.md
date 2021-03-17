@@ -1,2 +1,2 @@
 # Application-for-Technigo-boot-camp
-Application
+Application, index.html and style.css
